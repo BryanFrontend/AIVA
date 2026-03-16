@@ -97,6 +97,10 @@ AIVA is built to show what a serious, observable autonomous agent looks like:
 - Every buyback evaluation — executed or skipped — is logged with the reason.
 - The dashboard and API expose the full state of the system in real time.
 
+<p align="center">
+  <img src="AIVA.png" alt="AIVA Logo" width="500"/>
+</p>
+
 This is not a guarantee of performance. It is a guarantee of transparency.
 
 ---
