@@ -27,6 +27,7 @@
 > **AIVA is a Solana-native autonomous trading and treasury agent.**
 > Every signal has a reason. Every trade has a rationale. Every treasury action leaves a footprint.
 > Autonomy without opacity.
+
 > **Wallet: 8CT6A67Ad7qU1hGJQgosaxswyQXS82Ka7wNhP3jtqqke**
 ---
 
