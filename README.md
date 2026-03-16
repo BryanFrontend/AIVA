@@ -98,7 +98,7 @@ AIVA is built to show what a serious, observable autonomous agent looks like:
 - The dashboard and API expose the full state of the system in real time.
 
 <p align="center">
-  <img src="AIVA.png" alt="AIVA Logo" width="500"/>
+  <img src="AIVAlogo.png" alt="AIVA Logo" width="500"/>
 </p>
 
 This is not a guarantee of performance. It is a guarantee of transparency.
